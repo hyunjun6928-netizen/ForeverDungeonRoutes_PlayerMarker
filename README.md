@@ -25,8 +25,8 @@ WoW: 포에버의 던전 지도 애드온 [Forever Dungeon Routes](https://www.c
 ## 설치
 
 1. Forever Dungeon Routes를 먼저 설치합니다.
-2. [Releases](https://github.com/hyunjun6928-netizen/ForeverDungeonRoutes_PlayerMarker/releases/latest)에서 `ForeverDungeonRoutes_PlayerMarker-x.y.z.zip`을 받아 압축을 풉니다.
-3. 나온 `ForeverDungeonRoutes_PlayerMarker` 폴더를 `World of Warcraft\_forever_\Interface\AddOns\` 안에 넣습니다.
+2. CurseForge 앱으로 이 플러그인을 설치합니다. 앱을 쓰면 다음 단계는 건너뜁니다.
+3. 압축 파일로 받았다면 압축을 풀어 `ForeverDungeonRoutes_PlayerMarker` 폴더를 `World of Warcraft\_forever_\Interface\AddOns\` 안에 넣습니다.
 4. 게임을 완전히 껐다 켭니다.
 
 설정은 없습니다. 끄려면 애드온 목록에서 이 플러그인의 체크를 풀면 됩니다. Forever Dungeon Routes의 파일은 건드리지 않으며, 플러그인에서 오류가 나면 스스로 꺼지고 Forever Dungeon Routes는 원래대로 동작합니다.
@@ -60,8 +60,8 @@ Once you leave the named room or walk on for a while, the dot turns faint (the l
 ## Install
 
 1. Install Forever Dungeon Routes first.
-2. Download `ForeverDungeonRoutes_PlayerMarker-x.y.z.zip` from [Releases](https://github.com/hyunjun6928-netizen/ForeverDungeonRoutes_PlayerMarker/releases/latest) and unpack it.
-3. Put the folder `ForeverDungeonRoutes_PlayerMarker` into `World of Warcraft\_forever_\Interface\AddOns\`.
+2. Install this plugin with the CurseForge app. With the app you can skip the next step.
+3. If you downloaded the zip file: unpack it and put the folder `ForeverDungeonRoutes_PlayerMarker` into `World of Warcraft\_forever_\Interface\AddOns\`.
 4. Quit the game and start it again.
 
 There are no settings. To switch it off, untick the plugin in the addon list. It changes no file of Forever Dungeon Routes; if the plugin runs into an error it switches itself off and Forever Dungeon Routes carries on as usual.
