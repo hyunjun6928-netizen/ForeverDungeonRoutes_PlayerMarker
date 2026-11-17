@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: Forever Dungeon Routes: Player Marker
+## Title-koKR: Forever Dungeon Routes: 내 위치 표시
+## Notes: Unofficial plugin for Forever Dungeon Routes: shows where you are inside dungeons on its map (the room the game names, the boss you fight, the entrance). An estimate, as exact as a room - the game gives addons no coordinates inside dungeons.
+## Notes-koKR: Forever Dungeon Routes용 비공식 플러그인. 던전 안에서 내 위치를 그 지도에 점으로 보여 줍니다 (게임이 알려주는 방, 싸우는 보스, 입구 기준). 게임이 던전 안 좌표를 주지 않아 방 단위의 추정 위치입니다.
+## Version: 1.0.0
+## Dependencies: ForeverDungeonRoutes
+## SavedVariablesPerCharacter: ForeverDungeonRoutesPlayerMarkerDB
+## X-License: MIT
+## Category: Map
+## Category-koKR: 지도
+
+PlayerMarker.lua
